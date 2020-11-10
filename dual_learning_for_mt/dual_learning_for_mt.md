@@ -19,6 +19,6 @@
 
 ### Notes and Questions
 
-- Cna we implement advantage function here? If so, does lower variance help?
+- Can we implement advantage function here? If so, does lower variance help?
 - What are sampling technique can be used?
-- Why can beam search obtain more meaningful results?
+- How can beam search obtain more meaningful results?
