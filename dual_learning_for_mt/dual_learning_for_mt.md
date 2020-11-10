@@ -6,6 +6,7 @@
 
 - The motivation is that parallel data are scarce and costly to collect.
 - The translation models are trained from unlabeled data through RL.
+- For the policy gradient method, it used REINFORCE since no advantage function appears.
 - The system reduces the requirement on aligned bilingual data.
 - The two-agent game:
     - *A* sends a message in language *A* to a noisy channel, which converts that message to language *B* and further transmits to *B*.
