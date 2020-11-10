@@ -18,6 +18,6 @@
 
 ### Notes and Questions
 
-- Did they use advantage function to reduce variance?
+- Cna we implement advantage function here? If so, does lower variance help here?
 - What are sampling technique can be used?
 - Why can beam search obtain more meaningful results?
