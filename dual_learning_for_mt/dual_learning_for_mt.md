@@ -10,7 +10,7 @@
 - The two-agent game:
     - *A* sends a message in language *A* to a noisy channel, which converts that message to language *B* and further transmits to *B*.
     - *B* tells if the received message is **natural** and inform *A*, and then sends it back to *A* using the other noisy channel.
-    - *A* tells if the received message is **correct** (consistent with the original message). This allows both A and B to know that whether the two channels perform well.
+    - *A* tells if the received message is **correct** (consistent with the original message). This allows both *A* and *B* to know that whether the two channels perform well.
     - The game can start from either side, but it is a symmetric process in either one of the two cases. The two channels are improved using the feedback signal.
 - The LM reward is the naturalness of the output sentence, whereas the communication reward is the log probability of the sentence recovered from the middle translation output. The total reward is the sum of both.
 - It maximizes towards the expected sum of the two rewards over the middle translation outputs.
