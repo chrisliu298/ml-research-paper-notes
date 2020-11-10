@@ -15,7 +15,7 @@
     - The game can start from either side, but it is a symmetric process in either one of the two cases. The two channels are improved using the feedback signal.
 - The LM reward is the naturalness of the output sentence, whereas the communication reward is the log probability of the sentence recovered from the middle translation output. The total reward is the sum of both.
 - It maximizes towards the expected sum of the two rewards over the middle translation outputs.
-- It uses beam search to obtain more meaningful results?
+- It uses beam search to obtain more meaningful results.
 
 ### Notes and Questions
 
