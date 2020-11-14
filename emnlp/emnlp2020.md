@@ -1,6 +1,6 @@
-## EMNLP 2020
+## EMNLP 2020 (Updating)
 
-Papers are grouped by track.
+Papers here are the ones that I find interesting. They are grouped by the track names.
 
 ### Dialog and Interactive Systems
 
