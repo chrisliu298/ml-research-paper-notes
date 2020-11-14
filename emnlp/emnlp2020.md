@@ -6,7 +6,7 @@ Papers here are the ones that I find interesting. They are grouped by the track 
 ### Machine Learning for NLP
 
 - [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://virtual.2020.emnlp.org/paper_main.1574.html)
-- [ETC: Encoding Long and Structured Inputs in Transformers](https://virtual.2020.emnlp.org/paper_main.1618.html)
+- [ETC: Encoding Long and Structured Inputs in Transformers](https://virtual.2020.emnlp.org/paper_main.1618.html) [[Notes](etc.md)]
 - [Transformer Based Multi-Source Domain Adaptation](https://virtual.2020.emnlp.org/paper_main.745.html)
 - [Learning from Task Descriptions](https://virtual.2020.emnlp.org/paper_main.3470.html)
 - [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning](https://virtual.2020.emVVnlp.org/paper_main.2574.html)
@@ -26,7 +26,7 @@ Papers here are the ones that I find interesting. They are grouped by the track 
 
 ### Language Grounding to Vision, Robotics, and Beyond
 
-- [Experience Grounds Language](https://virtual.2020.emnlp.org/paper_main.1455.html)
+- [Experience Grounds Language](https://virtual.2020.emnlp.org/paper_main.1455.html) [[Notes](etc.md)]
 
 
 ### Machine Translation and Multilinguality
