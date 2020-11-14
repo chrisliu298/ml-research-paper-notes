@@ -26,7 +26,7 @@ Papers here are the ones that I find interesting. They are grouped by the track 
 
 ### Language Grounding to Vision, Robotics, and Beyond
 
-- [Experience Grounds Language](https://virtual.2020.emnlp.org/paper_main.1455.html) [[Notes](etc.md)]
+- [Experience Grounds Language](https://virtual.2020.emnlp.org/paper_main.1455.html) [[Notes](experience_grounds_language.md)]
 
 
 ### Machine Translation and Multilinguality
