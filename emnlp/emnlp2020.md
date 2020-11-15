@@ -19,6 +19,20 @@ Papers here are the ones that I find interesting. They are grouped by the track 
 - [DORB: Dynamically Optimizing Multiple Rewards with Bandits](https://virtual.2020.emnlp.org/paper_main.2221.html)
 
 
+### Interpretability and Analysis of Models for NLP
+
+- [When BERT Plays the Lottery, All Tickets Are Winning](https://virtual.2020.emnlp.org/paper_main.2215.html)
+- [COGS: A Compositional Generation Challenge Based on Semantic Interpretation](https://virtual.2020.emnlp.org/paper_main.2179.html)
+- [Analyzing Individual Neurons in Pre-trained Language Models](https://virtual.2020.emnlp.org/paper_main.2414.html)
+- [Pretrained Language Model Embryology: The Birth of ALBERT](https://virtual.2020.emnlp.org/paper_main.1280.html)
+- [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training](https://virtual.2020.emnlp.org/paper_main.1631.html)
+- [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models](https://virtual.2020.emnlp.org/paper_main.3304.html)
+- [On the Ability and Limitations of Transformers to Recognize Formal Languages](https://virtual.2020.emnlp.org/paper_main.2696.html)
+- [With Little Power Comes Great Responsibility](https://virtual.2020.emnlp.org/paper_main.2238.html)
+- [Analyzing Redundancy in Pretrained Transformer Models](https://virtual.2020.emnlp.org/paper_main.3543.html)
+
+
+
 ### Dialog and Interactive Systems
 
 - [Task-Completion Dialogue Policy Learning via Monte Carlo Tree Search with Dueling Network](https://virtual.2020.emnlp.org/paper_main.664.html)
@@ -27,6 +41,8 @@ Papers here are the ones that I find interesting. They are grouped by the track 
 ### Language Grounding to Vision, Robotics, and Beyond
 
 - [Experience Grounds Language](https://virtual.2020.emnlp.org/paper_main.1455.html) [[Notes]](experience_grounds_language.md)
+- [Keep CALM and Explore: Language Models for Action Generation in Text-based Games](https://virtual.2020.emnlp.org/paper_main.1578.html)
+- 
 
 
 ### Machine Translation and Multilinguality
