@@ -42,3 +42,10 @@
 ### Compositional Generalization
 
 - [Compositional Generalization via Neural-Symbolic Stack Machines](https://neurips.cc/virtual/2020/public/poster_12b1e42dc0746f22cf361267de07073f.html)
+- [Hierarchical Poset Decoding for Compositional Generalization in Language](https://neurips.cc/virtual/2020/public/poster_4d7e0d72898ae7ea3593eb5ebf20c744.html)
+- [Compositional Generalization by Learning Analytical Expressions](https://neurips.cc/virtual/2020/public/poster_83adc9225e4deb67d7ce42d58fe5157c.html)
+- [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://neurips.cc/virtual/2020/public/poster_64dcf3c521a00dbb4d2a10a27a95a9d8.html)
+- [Multimodal Graph Networks for Compositional Generalization in Visual Question Answering](https://neurips.cc/virtual/2020/public/poster_1fd6c4e41e2c6a6b092eb13ee72bce95.html)
+- [Learning compositional functions via multiplicative weight updates](https://neurips.cc/virtual/2020/public/poster_9a32ef65c42085537062753ec435750f.html)
+- [A causal view of compositional zero-shot recognition](https://neurips.cc/virtual/2020/public/poster_1010cedf85f6a7e24b087e63235dc12e.html)
+- [Learning Compositional Rules via Neural Program Synthesis](https://neurips.cc/virtual/2020/public/poster_7a685d9edd95508471a9d3d6fcace432.html)
