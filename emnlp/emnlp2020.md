@@ -1,4 +1,4 @@
-## EMNLP 2020 (Updating)
+## EMNLP 2020
 
 Papers here are the ones that I find interesting. They are grouped by the track names.
 
