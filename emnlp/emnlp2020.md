@@ -31,8 +31,6 @@ Papers here are the ones that I find interesting. They are grouped by the track 
 - [With Little Power Comes Great Responsibility](https://virtual.2020.emnlp.org/paper_main.2238.html)
 - [Analyzing Redundancy in Pretrained Transformer Models](https://virtual.2020.emnlp.org/paper_main.3543.html)
 
-
-
 ### Dialog and Interactive Systems
 
 - [Task-Completion Dialogue Policy Learning via Monte Carlo Tree Search with Dueling Network](https://virtual.2020.emnlp.org/paper_main.664.html)
@@ -42,9 +40,9 @@ Papers here are the ones that I find interesting. They are grouped by the track 
 
 - [Experience Grounds Language](https://virtual.2020.emnlp.org/paper_main.1455.html) [[Notes]](experience_grounds_language.md)
 - [Keep CALM and Explore: Language Models for Action Generation in Text-based Games](https://virtual.2020.emnlp.org/paper_main.1578.html)
-- 
 
 
 ### Machine Translation and Multilinguality
 
 - [Understanding the Difficulty of Training Transformers](https://virtual.2020.emnlp.org/paper_main.1552.html)
+
