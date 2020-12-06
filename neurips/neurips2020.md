@@ -1,12 +1,28 @@
 ## NeurIPS 2020 (Updating)
 
+## Tutorials
 
-## Deep Learning
+- [(Track2) Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html) (Mon, Dec 7th, 2020 @ 08:00 – 10:30 PST)
+- [(Track3) Offline Reinforcement Learning: From Algorithm Design to Practical Applications](https://nips.cc/virtual/2020/public/tutorial_8155bc545f84d9652f1012ef2bdfb6eb.html) (Mon, Dec 7th, 2020 @ 08:00 – 10:30 PST)
+- [(Track3) Policy Optimization in Reinforcement Learning](https://nips.cc/virtual/2020/public/tutorial_7cebd0178b69b2e88774529e1e59a7b0.html) (Mon, Dec 7th, 2020 @ 11:00 – 13:30 PST)
+
+## Workshops
+
+- [Meta-Learning](https://nips.cc/virtual/2020/public/workshop_16141.html) (Fri, Dec 11th, 2020 @ 03:00 – 12:00 PST)
+- [3rd Robot Learning Workshop](https://nips.cc/virtual/2020/public/workshop_16103.html) (Fri, Dec 11th, 2020 @ 07:00 – 19:30 PST)
+- [Deep Reinforcement Learning](https://nips.cc/virtual/2020/public/workshop_16114.html) (Fri, Dec 11th, 2020 @ 08:30 – 19:00 PST)
+- [The Challenges of Real World Reinforcement Learning](https://nips.cc/virtual/2020/public/workshop_16157.html) (Sat, Dec 12th, 2020 @ 08:30 – 19:30 PST)
+- [Offline Reinforcement Learning](https://nips.cc/virtual/2020/public/workshop_16148.html) (Sat, Dec 12th, 2020 @ 09:00 – 18:00 PST)
+
+
+## Papers
+
+### Deep Learning
 
 - [Triple descent and the two kinds of overfitting: where & why do they appear?](https://neurips.cc/virtual/2020/public/poster_1fd09c5f59a8ff35d499c0ee25a1d47e.html)
 
 
-## Learning Theory
+### Learning Theory
 
 - [A Limitation of the PAC-Bayes Framework](https://neurips.cc/virtual/2020/public/poster_ec79d4bed810ed64267d169b0d37373e.html)
 
