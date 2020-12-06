@@ -9,7 +9,7 @@ Papers here are the ones that I find interesting. They are grouped by the track 
 - [ETC: Encoding Long and Structured Inputs in Transformers](https://virtual.2020.emnlp.org/paper_main.1618.html) [[Notes]](etc.md)
 - [Transformer Based Multi-Source Domain Adaptation](https://virtual.2020.emnlp.org/paper_main.745.html)
 - [Learning from Task Descriptions](https://virtual.2020.emnlp.org/paper_main.3470.html)
-- [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning](https://virtual.2020.emVVnlp.org/paper_main.2574.html)
+- [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning](https://virtual.2020.emnlp.org/paper_main.2574.html)
 - [Active Learning for BERT: An Empirical Study](https://virtual.2020.emnlp.org/paper_main.493.html)
 - [Grounded Compositional Outputs for Adaptive Language Modeling](https://virtual.2020.emnlp.org/paper_main.1130.html)
 - [Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games](https://virtual.2020.emnlp.org/paper_main.763.html)
