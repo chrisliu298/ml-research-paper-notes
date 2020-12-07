@@ -9,7 +9,6 @@
 ## Workshops
 
 - [Meta-Learning](https://nips.cc/virtual/2020/public/workshop_16141.html) (Fri, Dec 11th, 2020 @ 03:00 – 12:00 PST)
-- [3rd Robot Learning Workshop](https://nips.cc/virtual/2020/public/workshop_16103.html) (Fri, Dec 11th, 2020 @ 07:00 – 19:30 PST)
 - [Deep Reinforcement Learning](https://nips.cc/virtual/2020/public/workshop_16114.html) (Fri, Dec 11th, 2020 @ 08:30 – 19:00 PST)
 - [The Challenges of Real World Reinforcement Learning](https://nips.cc/virtual/2020/public/workshop_16157.html) (Sat, Dec 12th, 2020 @ 08:30 – 19:30 PST)
 - [Offline Reinforcement Learning](https://nips.cc/virtual/2020/public/workshop_16148.html) (Sat, Dec 12th, 2020 @ 09:00 – 18:00 PST)
